@@ -1,0 +1,11 @@
+https://www.google.com.sv/search?q=self+close+html&spell=1&sa=X&ved=0ahUKEwj787WEnObdAhUC7FMKHQsrCKIQBQgiKAA&biw=1853&bih=987
+https://www.w3schools.com/Html/html5_audio.asp
+https://www.w3schools.com/tags/tag_nav.asp
+https://developer.mozilla.org/es/docs/Web/HTML/Elemento/nav
+https://www.w3schools.com/css/css_navbar.asp
+https://github.com/cortezle?tab=repositories
+https://www.w3schools.com/html/html_images.asp
+https://www.w3schools.com/cssref/css3_pr_justify-content.asp
+https://developer.mozilla.org/es/docs/Web/HTML/Elemento/font
+https://www.w3schools.com/html/html_forms.asp
+https://www.w3schools.com/tags/att_body_background.asp
