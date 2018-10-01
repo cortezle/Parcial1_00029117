@@ -9,3 +9,4 @@ https://www.w3schools.com/cssref/css3_pr_justify-content.asp
 https://developer.mozilla.org/es/docs/Web/HTML/Elemento/font
 https://www.w3schools.com/html/html_forms.asp
 https://www.w3schools.com/tags/att_body_background.asp
+https://www.w3schools.com/cssref/css3_pr_background-size.asp
